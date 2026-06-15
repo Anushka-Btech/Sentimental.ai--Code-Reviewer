@@ -1,7 +1,7 @@
 # Sentimental.ai
 
 **AI code reviews with memory.**
-Tagline: *Every codebase has standards. Every team has habits. Sentimental.ai remembers both.*
+*Every codebase has standards. Every team has habits. Sentimental.ai remembers both.*
 
 Built for the **Vectorize Hindsight Hackathon**.
 
